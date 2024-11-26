@@ -21,4 +21,4 @@ As part of our ACL W-NUT 2015 shared task paper, we release a Twitter word2vec m
 
 ### Dynamic Convolutional Neural Networks
 
-I have implemented the [paper](http://nal.co/papers/Kalchbrenner_DCNN_ACL14) “A Convolutional Neural Network for Modelling Sentences” from Kalchbrenner et al. You can find the Theano implementation [here](http://nal.co/papers/Kalchbrenner_DCNN_ACL14).
+I have implemented the [paper](https://arxiv.org/abs/1404.2188) “A Convolutional Neural Network for Modelling Sentences” from Kalchbrenner et al. You can find the Theano implementation [here](https://github.com/FredericGodin/DynamicCNN).
