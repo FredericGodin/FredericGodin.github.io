@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Fréderic's Blog # blog_name will be displayed in your blog page
-blog_description: Thoughts about Machine Learning
+blog_description: Selective Machine Learning Projects
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -166,12 +166,14 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  #   - name: medium.com
+  #     rss_url: https://medium.com/@al-folio/feed
+  - name: Sinch Blog
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://medium.com/wearesinch/robustifying-conversational-ai-with-counterfactuals-55c73f7e54a6
+        published_date: 2023-08-16
+      - url: https://medium.com/wearesinch/empowering-chatbots-with-intent-discovery-a732b1f40d4f
+        published_date: 2023-08-29
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -303,8 +305,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
