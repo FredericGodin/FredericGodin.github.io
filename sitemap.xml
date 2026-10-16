@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?> <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> <url> <loc>https://fredericgodin.github.io/blog/2019/twitter-embeddings/</loc> <lastmod>2019-08-15T23:36:10+00:00</lastmod> </url> <url> <loc>https://fredericgodin.github.io/blog/2020/flemish-speech-recognition/</loc> <lastmod>2020-10-31T20:00:00+00:00</lastmod> </url> <url> <loc>https://fredericgodin.github.io/blog/2023/robustifying-conversational-ai-with-counterfactuals-by-sinch-sinch-blog-medium/</loc> <lastmod>2023-08-16T00:00:00+00:00</lastmod> </url> <url> <loc>https://fredericgodin.github.io/blog/2023/empowering-chatbots-with-intent-discovery-by-sinch-sinch-blog-medium/</loc> <lastmod>2023-08-29T00:00:00+00:00</lastmod> </url> <url> <loc>https://fredericgodin.github.io/</loc> </url> <url> <loc>https://fredericgodin.github.io/software/</loc> </url> <url> <loc>https://fredericgodin.github.io/blog/2019/</loc> </url> <url> <loc>https://fredericgodin.github.io/blog/2020/</loc> </url> <url> <loc>https://fredericgodin.github.io/blog/2023/</loc> </url> <url> <loc>https://fredericgodin.github.io/blog/</loc> </url> </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://zermion.ai/</loc></url>
+  <url><loc>https://zermion.ai/blog/</loc></url>
+  <url><loc>https://zermion.ai/blog/twitter-embeddings/</loc></url>
+  <url><loc>https://zermion.ai/blog/flemish-speech-recognition/</loc></url>
+  <url><loc>https://zermion.ai/software/</loc></url>
+</urlset>
