@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://zermion.ai/</loc></url>
-  <url><loc>https://zermion.ai/blog/</loc></url>
-  <url><loc>https://zermion.ai/blog/twitter-embeddings/</loc></url>
-  <url><loc>https://zermion.ai/blog/flemish-speech-recognition/</loc></url>
-  <url><loc>https://zermion.ai/software/</loc></url>
+  <url><loc>https://zermion.ai/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://zermion.ai/blog/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://zermion.ai/blog/twitter-embeddings/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://zermion.ai/blog/flemish-speech-recognition/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://zermion.ai/software/</loc><lastmod>2026-10-17</lastmod></url>
 </urlset>
